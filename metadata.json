@@ -1,0 +1,5 @@
+{
+  "name": "Bakamla Contact Center Scheduler",
+  "description": "An automated scheduling system for Contact Center staff with complex duty and rest rules, specifically designed for Bakamla personnel.",
+  "requestFramePermissions": []
+}
